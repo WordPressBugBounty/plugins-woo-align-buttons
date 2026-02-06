@@ -70,7 +70,7 @@ class Woo_Align {
 		if ( defined( 'WOO_ALIGN_VERSION' ) ) {
 			$this->version = WOO_ALIGN_VERSION;
 		} else {
-			$this->version = '3.7.0';
+			$this->version = '3.8.0';
 		}
 		$this->woo_align = 'woo-align';
 

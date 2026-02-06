@@ -1,10 +1,10 @@
-=== Woo Align Buttons ===
+=== Align Woo Buttons ===
 Contributors: 320up
 Donate link: https://320up.com
 Tags: woocommerce, align, buttons
 Requires at least: 4.7
-Tested up to: 6.3.2
-Stable tag: 3.7.0
+Tested up to: 6.8.3
+Stable tag: 3.8.0
 License: GPLv2 or later
 License URI: http://www.gnu.org/licenses/gpl-2.0.html
 
@@ -13,6 +13,8 @@ A plugin that aligns WooCommerce "Add to cart" buttons.
 == Description ==
 
 This lightweight plugin will automatically align your WooCommerce "Add to cart" buttons.
+
+**This plugin is not associated with WooCommerce or any of their affiliates.**
 
 Nothing looks worse than visiting a WooCommerce shop page to find the "Add to cart" buttons scattered all over the place like a dog's breakfast.
 
@@ -67,10 +69,6 @@ You can try clearing your cache files.
 
 Yes. Every time the screen is resized, it will re-adjust the buttons.
 
-= Will it work on older versions? =
-
-Don't know. Try it for yourself. It's Free.
-
 = Troubleshooting =
 
 **If your theme has been heavily modified and the buttons are outside of the original scope, you may have to consider using another theme.**
@@ -84,6 +82,11 @@ A sample child theme can be found here on [GitHub](https://github.com/Aquafortis
 3. Twenty Seventeen Theme.
 
 == Changelog ==
+
+= 3.8.0 =
+* Tested on WordPress version 6.8.3
+* Tested on WooCommerce version 10.3.4
+* Changed Plugin name.
 
 = 3.7.0 =
 * Tested on WordPress version 6.3.2
